@@ -13,8 +13,8 @@ setting -- Billing and plans -- Plans and usage
 Install the `git-lfs` firstly:
 
 ```bash
-apt-get install git-lfs # In Linux
-brew install git-lfs # In macos
+apt-get install git-lfs # On Linux
+brew install git-lfs # On MacOS
 ```
 
 Set up the lfs using for current git account.
